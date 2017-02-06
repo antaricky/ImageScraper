@@ -1,6 +1,7 @@
 # ImageScraper
 
-A multi-threaded java program to download guitar tabs from http://guitarlist.net/
+ImageScraper.jar
+is a multi-threaded java program to download guitar tabs from http://guitarlist.net/
 
 An example URL would be http://guitarlist.net/bandscore/judyandmary/hugainaiya/hugainaiya.php
 
